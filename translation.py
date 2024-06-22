@@ -42,7 +42,7 @@ class Translation(object):
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
 │ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/MswForwardBot>𝕄𝕤ᴡ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
-│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/AlonesimpleBoy>┈━═.•°αηкυѕн уα∂αν°•.═━┈</a>
+│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/Lt_Ankush>┈━═.•°αηкυѕн уα∂αν°•.═━┈</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/mswpresent>𝕄𝕤ᴡ ℙʀᴇ𝕤ᴇɴᴛ𝕤™ </a>
 │ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://www.hetzner.com/>ʜᴇᴛᴢɴᴇʀ</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
